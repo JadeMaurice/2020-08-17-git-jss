@@ -27,3 +27,4 @@
 
 
 You can make changes to different parts of a file and will automatically merge
+In a merge conflict, look for the `>>>` `===` `<<<` and fix the lines that conflict
