@@ -17,3 +17,6 @@
 	-`git diff --staged`: shows changes you've made to file in staging area
 - `git commit -m "MESSAGE"`: allows you to directly add in a comment without opening the nano editor
 
+- `git remote add origin <URL>`: adds URL with the name origin
+- `git push origin master`: pushes the master branch to...
+- `git pull origin master`: pulls the master branch from origin to local computer
