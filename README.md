@@ -1,5 +1,7 @@
 2020-08-17-git-jss
 
+##LOCAL
+
 - `git init`: create git repository in current folder
 - `git config --global user.name ""`
 - `git config -- global user.email ""`
@@ -16,6 +18,8 @@
 - `git diff`: shows changes you've made to file not already added to staging are
 	-`git diff --staged`: shows changes you've made to file in staging area
 - `git commit -m "MESSAGE"`: allows you to directly add in a comment without opening the nano editor
+
+##REMOTES
 
 - `git remote add origin <URL>`: adds URL with the name origin
 - `git push origin master`: pushes the master branch to...
