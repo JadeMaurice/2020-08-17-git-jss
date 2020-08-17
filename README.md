@@ -12,3 +12,8 @@
 - `git log`: shows you your history
 	- `git log --oneline`: shows you your 1-line version of commit history
 - `HEAD`: where you're looking at in history
+
+- `git diff`: shows changes you've made to file not already added to staging are
+	-`git diff --staged`: shows changes you've made to file in staging area
+- `git commit -m "MESSAGE"`: allows you to directly add in a comment without opening the nano editor
+
