@@ -9,3 +9,6 @@
 - `git commit`: saves or snapshots changes you've made to the staging area in Git project history
 - `git config --global core.editor "nano -w"`: if default text editor is unset or you wish to change it, allows you to set it to nano
 
+- `git log`: shows you your history
+	- `git log --oneline`: shows you your 1-line version of commit history
+- `HEAD`: where you're looking at in history
