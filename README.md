@@ -24,3 +24,6 @@
 - `git remote add origin <URL>`: adds URL with the name origin
 - `git push origin master`: pushes the master branch to...
 - `git pull origin master`: pulls the master branch from origin to local computer
+
+
+You can make changes to different parts of a file and will automatically merge
