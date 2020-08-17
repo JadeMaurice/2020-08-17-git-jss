@@ -1,4 +1,4 @@
-2020-08-17-git-jss
+2020-08-17-git-jss VT SWC workshop
 
 ##LOCAL
 
