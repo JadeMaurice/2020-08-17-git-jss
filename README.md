@@ -3,3 +3,9 @@
 - `git init`: create git repository in current folder
 - `git config --global user.name ""`
 - `git config -- global user.email ""`
+
+- `git status`: displays the state of the working directory and staging area. Shows which changes have been staged...
+- `git add`: allows you to add a change in the working directory to the staging area
+- `git commit`: saves or snapshots changes you've made to the staging area in Git project history
+- `git config --global core.editor "nano -w"`: if default text editor is unset or you wish to change it, allows you to set it to nano
+
